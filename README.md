@@ -11,8 +11,7 @@
 <h3 align=center>🥸 Authors</h3>
 
 <div align=center>
-    <a href="https://github.com/omgitsgm"><img src=readme-files/gm-profile.jpg width=100px style="border-radius:200px" title="Gabriel Mendes"/></a>
-    alt="Foto de perfil de um homem branco de 23 anos, com óculos pretos e redondos, bigode e cabelo castanhos. O fundo é de uma parede colorida com as coresd o arco-íris."/>
+    <a href="https://github.com/omgitsgm"><img src=readme-files/gm-profile.jpg width=100px style="border-radius:200px" title="Gabriel Mendes" alt="Foto de perfil de um homem branco de 23 anos, com óculos pretos e redondos, bigode e cabelo castanhos. O fundo é de uma parede colorida com as coresd o arco-íris."/></a>
     <p><b>Gabriel Mendes <i>(omgitsgm)</i></b></p>
     <p><a href="https://www.linkedin.com/in/luiz-gabriel-profirio-mendes/">Linkedin</a></p>
 <div>
